@@ -1,0 +1,4 @@
+﻿  functionscpp.cpp
+f:\college career courses\c++ and c#\c++\mid_term\mid_term_project\mid_term_project\functionscpp.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  mid_term_project.vcxproj -> F:\College Career Courses\C++ and C#\C++\mid_term\mid_term_project\Debug\mid_term_project.exe
+  mid_term_project.vcxproj -> F:\College Career Courses\C++ and C#\C++\mid_term\mid_term_project\Debug\mid_term_project.pdb (Full PDB)
